@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ykchn</string>
+    <string name="default_device_name">DEFAULT_DEVICE</string>
+    <string name="default_connection_state">Not Connected</string>
+    <string name="mac_address">MAC Address: %1$s</string>
+    <string name="connect_button_text">connect</string>
+    <string name="connect_button_tag">TAG_CONNECT_BUTTON</string>
+    <string name="list_item_tag">TAG_LIST_ITEM</string>
+    <string name="default_mac_address">MAC Address: 00:00:DE:AD:BE:EF</string>
+    <string name="use_device_button">Use This Device</string>
+    <string name="control_string">Control</string>
+</resources>
