@@ -2,7 +2,7 @@
 
 BLE HOGP app for Android written in kotlin.
 
-Very much work in progress, but BLE mouse is confirmend working on Samsung Galaxy S10 (Peripheral) with Windows 10 (Host).
+Very much work in progress, but BLE mouse is confirmend working on Samsung Galaxy S10 (Peripheral) with Windows 10 (Central).
 
 ## License
 BLE connection code is largely based on [BLE-HID-Peripheral-for-Android](https://github.com/kshoji/BLE-HID-Peripheral-for-Android)
